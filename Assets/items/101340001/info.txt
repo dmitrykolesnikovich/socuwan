@@ -1,0 +1,7 @@
+Santa Boots;0;6000;Some of santa's boots!
+CLOTHES
+3;5;0.0;0.0;0.0
+12;1;1;
+15;1;1;
+<END>
+NULL

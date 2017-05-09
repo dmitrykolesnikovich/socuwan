@@ -1,0 +1,4 @@
+Potato;1;35;Solanum Tuberosum.
+FOOD
+7.4;340.0
+NULL

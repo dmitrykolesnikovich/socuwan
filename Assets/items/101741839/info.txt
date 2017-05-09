@@ -1,0 +1,6 @@
+Sword;0;307;A sword from the heart of the Western jungles.
+CLOTHES
+2;2;600.0;20.0;4.0
+6;0;0;
+<END>
+NULL

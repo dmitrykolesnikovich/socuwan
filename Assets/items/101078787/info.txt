@@ -1,0 +1,6 @@
+Santa Hat;0;5000;Ho ho ho! Merry Christmas!
+CLOTHES
+3;5;0.0;0.0;0.0
+3;0;0;
+<END>
+NULL

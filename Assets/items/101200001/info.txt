@@ -1,0 +1,8 @@
+Plate Legs;0;100;Some nice trousers!
+CLOTHES
+2;5;0.0;40.0;0.0
+0;1;0;
+10;1;0;
+13;1;0;
+<END>
+NULL

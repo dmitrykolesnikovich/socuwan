@@ -1,0 +1,7 @@
+Plate Gloves;0;40;Hard metal gloves for some serious hand protection.
+CLOTHES
+2;5;20.0;20.0;2.0
+6;1;1;
+9;1;1;
+<END>
+NULL

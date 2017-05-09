@@ -1,0 +1,6 @@
+Bow;0;325;Good for shooting things!
+CLOTHES
+1;4;398.0;10.0;20.0
+6;0;0;
+<END>
+NULL

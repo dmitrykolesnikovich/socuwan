@@ -1,0 +1,4 @@
+Pineapple;1;100;A spiky fruit from the Western jungles.
+FOOD
+6.0;200.0
+NULL

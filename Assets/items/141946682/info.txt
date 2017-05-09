@@ -1,0 +1,4 @@
+Trout;0;240;A small edible fish.
+FOOD
+15.0;1200.0
+NULL

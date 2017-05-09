@@ -1,0 +1,6 @@
+Staff;0;100;This staff exudes evil.
+CLOTHES
+0;3;0.0;0.0;9.0
+6;0;0;
+<END>
+NULL

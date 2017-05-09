@@ -1,0 +1,6 @@
+Broad Sword;0;4000;An expensive Broad Sword. Woow !
+CLOTHES
+2;4;7000.0;500.0;300.0
+6;0;0;
+<END>
+NULL

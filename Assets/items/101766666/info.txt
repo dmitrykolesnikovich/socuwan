@@ -1,0 +1,6 @@
+Short Sword;0;200;A short sword for stabbing people.
+CLOTHES
+2;4;0.0;0.0;0.0
+6;0;0;
+<END>
+NULL

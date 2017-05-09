@@ -1,0 +1,9 @@
+Plate Top;0;700;A highly protective metal top.
+CLOTHES
+2;2;20.0;200.0;34.0
+2;1;0;
+1;1;1;
+4;1;1;
+7;1;1;
+<END>
+NULL

@@ -1,0 +1,6 @@
+Crystal Sword;0;10000;A big longsword with a crystal at the end. Nice !
+CLOTHES
+2;5;600.0;660.0;350.0
+6;0;0;
+<END>
+NULL

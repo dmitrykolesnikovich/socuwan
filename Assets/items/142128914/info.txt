@@ -1,0 +1,4 @@
+Bananana;1;30;A bananananaa!
+FOOD
+3.0;200.0
+NULL

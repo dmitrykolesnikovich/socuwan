@@ -1,0 +1,6 @@
+Helmet;0;300;A helmet with two pointy horns.
+CLOTHES
+2;5;0.0;0.0;0.0
+3;0;1;
+<END>
+NULL
